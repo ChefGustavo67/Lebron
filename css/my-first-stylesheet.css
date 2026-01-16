@@ -1,3 +1,9 @@
 body {
 font-family: sans-serif;
+background-color: #EFECE3;
+}
+a{
+    font-family: sans-serif;
+    color: #4A70A9;
+    text-decoration: none;
 }
